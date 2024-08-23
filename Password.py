@@ -27,7 +27,7 @@ while True:
     else:
         print('invalid command')
 
-file_path = r"C:\Users\techb\Desktop\Password.txt"
+file_path = r"C:\Users\file_path\Password.txt"
 print(output)
 
 
